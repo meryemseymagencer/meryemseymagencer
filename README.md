@@ -1,6 +1,6 @@
 # Merhaba, ben Meryem Şeyma
 
-Kocaeli Üniversitesi **Bilgisayar Mühendisliği** son sınıf öğrencisiyim. Yapay zekâ ile insan deneyimi arasındaki köprüyü kurmaya çalışıyorum.
+Bilgisayar Mühendisiyim. Yapay zekâ ile insan deneyimi arasındaki köprüyü kurmaya çalışıyorum.
 
 İlgi alanlarım **makine öğrenmesi, sinyal işleme, doğal dil işleme ve LLM değerlendirme.** Soyut algoritmalardan çok, gerçek veriyle çalışan ve insanların yararına olan sistemler kurmayı seviyorum.
 
